@@ -1,0 +1,13 @@
+C:\Projects\ConvertWebConfigToAzureSettings\bin\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.exe
+C:\Projects\ConvertWebConfigToAzureSettings\bin\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.deps.json
+C:\Projects\ConvertWebConfigToAzureSettings\bin\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.runtimeconfig.json
+C:\Projects\ConvertWebConfigToAzureSettings\bin\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.runtimeconfig.dev.json
+C:\Projects\ConvertWebConfigToAzureSettings\bin\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.dll
+C:\Projects\ConvertWebConfigToAzureSettings\bin\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.pdb
+C:\Projects\ConvertWebConfigToAzureSettings\obj\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.csprojAssemblyReference.cache
+C:\Projects\ConvertWebConfigToAzureSettings\obj\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.csproj.CoreCompileInputs.cache
+C:\Projects\ConvertWebConfigToAzureSettings\obj\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.AssemblyInfoInputs.cache
+C:\Projects\ConvertWebConfigToAzureSettings\obj\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.AssemblyInfo.cs
+C:\Projects\ConvertWebConfigToAzureSettings\obj\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.dll
+C:\Projects\ConvertWebConfigToAzureSettings\obj\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.pdb
+C:\Projects\ConvertWebConfigToAzureSettings\obj\Debug\netcoreapp3.1\ConvertWebConfigToAzureSettings.genruntimeconfig.cache

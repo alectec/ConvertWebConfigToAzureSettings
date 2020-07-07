@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "g7MTzer207HNF17aDZNCi0KO5b8rlFLJQlOYmFLDxFlz6sTDnb10Fq8YSiRVJUPcFhVPHmrZqqpil9Ldkd6WSQ==",
+  "dgSpecHash": "G0JXr9ajmePiaPRFAD0Ui1uDbY3TcsioOZZnRNBp7KKRMZ7jjVP3K3Cc9F+UtaAWMq3ezPnt0mnkBqXth1/4Lw==",
   "success": true,
   "projectFilePath": "C:\\Projects\\ConvertWebConfigToAzureSettings\\ConvertWebConfigToAzureSettings.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamie.000\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.3\\microsoft.netcore.app.runtime.win-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jamie.000\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\Jamie.000\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.3\\microsoft.aspnetcore.app.runtime.win-x64.3.1.3.nupkg.sha512"
+  ],
   "logs": []
 }

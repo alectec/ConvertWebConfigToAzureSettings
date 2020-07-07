@@ -38,6 +38,9 @@ namespace ConvertConfigToAzureSettings
             }    
 
             await WriteAzureAppSettings(localAppSettings, outputPath);
+
+            Console.WriteLine("Processing complete!");
+            Console.WriteLine("Output located at: " + outputPath);
         }
 
         private static List<AzureAppSetting> ReadAppSettingsFromConfigFile(string filePath)
